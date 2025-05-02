@@ -1,0 +1,15 @@
+{
+    "description": "Romnci Project",
+    "domain": "is-cool.dev",
+    "subdomain": "tabotobl",
+    "owner": {
+        "repo": "https://github.com/Romnci/registerz",
+        "email": "tabotobl@tabotobl.is-cool.dev"
+    },
+    "record": {
+        "MX": [
+            "uk.iqq.se"
+        ]
+    },
+    "proxied": false
+}
